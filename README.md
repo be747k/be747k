@@ -16,7 +16,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
@@ -27,12 +27,12 @@
 
 ## 📜 Certifications & Security Learning Paths
 
-| Certification / Path | Provider | Core Focus Areas | Status |
-| :--- | :--- | :--- | :---: |
-| **AWS Academy Cloud Security Foundations** | AWS Academy | Cloud Security, IAM, Encryption, Shared Responsibility Model | ⏳ Sept 2026 |
-| **AWS Academy Cloud Foundations** | AWS Academy | Cloud Infrastructure, Networking, Core AWS Services | ⏳ Sept 2026 |
-| **PortSwigger Web Security Academy** *(Practitioner)* | PortSwigger | Web LLM Attacks, API & GraphQL Security, SSRF, SQLi, Race Conditions | ⏳ Sept 2026 |
-| **SOC Level 1 Path** *(Apprentice)* | TryHackMe | Security Operations, SIEM, Traffic Analysis, Incident Response | ⏳ Sept 2026 |
+| Certification / Path | Provider | Core Focus Areas |
+| :--- | :--- | :--- |
+| **AWS Academy Cloud Security Foundations** | AWS Academy | Cloud Security, IAM, Encryption, Shared Responsibility Model |
+| **AWS Academy Cloud Foundations** | AWS Academy | Cloud Infrastructure, Networking, Core AWS Services |
+| **PortSwigger Web Security Academy** *(Practitioner)* | PortSwigger | Web LLM Attacks, API & GraphQL Security, SSRF, SQLi, Race Conditions |
+| **SOC Level 1 Path** *(Apprentice)* | TryHackMe | Security Operations, SIEM, Traffic Analysis, Incident Response |
 
 ## 📊 GitHub Stats
 <p align="left">
@@ -41,19 +41,4 @@
   <img src="https://streak-stats.demolab.com/?user=bilalk0571-coder&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bilalk0571-coder&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>## Hi there 👋
-
-<!--
-**bilalk0571-coder/bilalk0571-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
