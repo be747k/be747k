@@ -25,6 +25,15 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
+## 📜 Certifications & Security Learning Paths
+
+| Certification / Path | Provider | Core Focus Areas | Status |
+| :--- | :--- | :--- | :---: |
+| **AWS Academy Cloud Security Foundations** | AWS Academy | Cloud Security, IAM, Encryption, Shared Responsibility Model | ⏳ Sept 2026 |
+| **AWS Academy Cloud Foundations** | AWS Academy | Cloud Infrastructure, Networking, Core AWS Services | ⏳ Sept 2026 |
+| **PortSwigger Web Security Academy** *(Practitioner)* | PortSwigger | Web LLM Attacks, API & GraphQL Security, SSRF, SQLi, Race Conditions | ⏳ Sept 2026 |
+| **SOC Level 1 Path** *(Apprentice)* | TryHackMe | Security Operations, SIEM, Traffic Analysis, Incident Response | ⏳ Sept 2026 |
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=bilalk0571-coder&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
