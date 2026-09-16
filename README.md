@@ -3,6 +3,7 @@
 > Final-year CSE Student (IoT, Cybersecurity & Blockchain) | Full-Stack Developer | Security Researcher
 
 ## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-ansari-78631b420)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalk0571@gmail.com)
 
 ## 💻 Core Tech & Security Stack
