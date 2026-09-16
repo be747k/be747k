@@ -1,9 +1,6 @@
-# 💫 About Me
-* 🔭 **Currently working on:** Security research in AI vulnerabilities, network packet analysis, and blockchain-based audit logging.
-* 🌱 **Currently learning:** IoT security architectures, smart contract security auditing, and advanced penetration testing.
-* 👯 **Looking to collaborate on:** Cybersecurity research, open-source security tooling, and blockchain security projects.
-* 💬 **Ask me about:** Network Security, Linux CLI, Nmap/Wireshark packet analysis, and API abuse detection.
-* ⚡ **Security Focus:** Researching hardware-level fault injection and bit-flip attacks on LLMs.
+# Bilal Ansari
+
+> Final-year CSE Student (IoT, Cybersecurity & Blockchain) | Full-Stack Developer[cite: 1] | Security Researcher
 
 ## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalk0571@gmail.com)
