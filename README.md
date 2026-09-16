@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=be747k-coder&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=be747k&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=bilalk0571-coder&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
