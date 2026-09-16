@@ -1,6 +1,6 @@
 # Bilal Ansari
 
-> Final-year CSE Student (IoT, Cybersecurity & Blockchain) | Full-Stack Developer[cite: 1] | Security Researcher
+> Final-year CSE Student (IoT, Cybersecurity & Blockchain) | Full-Stack Developer | Security Researcher
 
 ## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalk0571@gmail.com)
